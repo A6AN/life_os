@@ -1,0 +1,1377 @@
+{
+  "days": {
+    "2026-11-24": {
+      "date": "2026-11-24",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-11-24-1",
+          "title": "OS U1-2",
+          "detail": "reproduce OS services + 5-state process diagram without notes; correct against text.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U1",
+            "U2"
+          ]
+        },
+        {
+          "id": "2026-11-24-2",
+          "title": "DCN U1",
+          "detail": "draw OSI vs TCP/IP mapping from memory and answer 5 short questions.",
+          "category": "study",
+          "subject": "DCN",
+          "units": [
+            "U1"
+          ]
+        },
+        {
+          "id": "2026-11-24-3",
+          "title": "Admin",
+          "detail": "request project briefs/deadlines and 1 past paper each for OS/DCN.",
+          "category": "project",
+          "subject": null,
+          "units": []
+        }
+      ]
+    },
+    "2026-11-25": {
+      "date": "2026-11-25",
+      "classes": [
+        {
+          "id": "2026-11-25-c0",
+          "start": "09:00",
+          "end": "09:55",
+          "title": "OS",
+          "place": "10102",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-25-c1",
+          "start": "11:00",
+          "end": "11:55",
+          "title": "DAA",
+          "place": "11013",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-25-c2",
+          "start": "13:00",
+          "end": "13:55",
+          "title": "Economics",
+          "place": "MS Teams",
+          "kind": "online"
+        },
+        {
+          "id": "2026-11-25-c3",
+          "start": "16:00",
+          "end": "16:55",
+          "title": "Applied ML",
+          "place": "10201",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-25-c4",
+          "start": "17:00",
+          "end": "17:55",
+          "title": "Leading Conversations",
+          "place": "MS Teams",
+          "kind": "online"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-11-25-1",
+          "title": "OS U2",
+          "detail": "complete 2 FCFS/SJF scheduling numericals with Gantt charts and turnaround/waiting time.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U2"
+          ]
+        },
+        {
+          "id": "2026-11-25-2",
+          "title": "DCN U2",
+          "detail": "solve one CRC or Hamming-code worked question, then repeat without notes.",
+          "category": "study",
+          "subject": "DCN",
+          "units": [
+            "U2"
+          ]
+        }
+      ]
+    },
+    "2026-11-26": {
+      "date": "2026-11-26",
+      "classes": [
+        {
+          "id": "2026-11-26-c0",
+          "start": "12:00",
+          "end": "12:55",
+          "title": "OS",
+          "place": "10103",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-26-c1",
+          "start": "13:00",
+          "end": "13:55",
+          "title": "Neuroscience",
+          "place": "MS Teams",
+          "kind": "online"
+        },
+        {
+          "id": "2026-11-26-c2",
+          "start": "14:00",
+          "end": "15:55",
+          "title": "DCN Lab",
+          "place": "10004",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-26-c3",
+          "start": "16:00",
+          "end": "16:55",
+          "title": "COA",
+          "place": "10102",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-26-c4",
+          "start": "17:00",
+          "end": "17:55",
+          "title": "Applied ML",
+          "place": "10104",
+          "kind": "class"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-11-26-1",
+          "title": "OS U2",
+          "detail": "2 round-robin/priority scheduling questions; list mistakes.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U2"
+          ]
+        },
+        {
+          "id": "2026-11-26-2",
+          "title": "DAA U1",
+          "detail": "solve 3 recurrences using expansion or Master theorem.",
+          "category": "study",
+          "subject": "DAA",
+          "units": [
+            "U1"
+          ]
+        }
+      ]
+    },
+    "2026-11-27": {
+      "date": "2026-11-27",
+      "classes": [
+        {
+          "id": "2026-11-27-c0",
+          "start": "08:00",
+          "end": "09:55",
+          "title": "DAA",
+          "place": "3105",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-27-c1",
+          "start": "10:00",
+          "end": "10:55",
+          "title": "DCN",
+          "place": "10102",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-27-c2",
+          "start": "12:00",
+          "end": "12:55",
+          "title": "COA",
+          "place": "10104",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-27-c3",
+          "start": "13:00",
+          "end": "13:55",
+          "title": "Neuroscience",
+          "place": "MS Teams",
+          "kind": "online"
+        },
+        {
+          "id": "2026-11-27-c4",
+          "start": "15:00",
+          "end": "15:55",
+          "title": "DAA",
+          "place": "10205",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-27-c5",
+          "start": "16:00",
+          "end": "16:55",
+          "title": "Applied ML",
+          "place": "10201",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-27-c6",
+          "start": "17:00",
+          "end": "17:55",
+          "title": "Applied ML",
+          "place": "10201",
+          "kind": "class"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-11-27-1",
+          "title": "OS U3",
+          "detail": "draw semaphore/critical-section solution from memory; test one producer-consumer question.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U3"
+          ]
+        },
+        {
+          "id": "2026-11-27-2",
+          "title": "DCN U2-3",
+          "detail": "compare Stop-and-Wait, Go-Back-N, Selective Repeat in a handwritten table.",
+          "category": "study",
+          "subject": "DCN",
+          "units": [
+            "U2",
+            "U3"
+          ]
+        }
+      ]
+    },
+    "2026-11-28": {
+      "date": "2026-11-28",
+      "classes": [
+        {
+          "id": "2026-11-28-c0",
+          "start": "13:00",
+          "end": "13:55",
+          "title": "Neuroscience",
+          "place": "MS Teams",
+          "kind": "online"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-11-28-1",
+          "title": "OS U4",
+          "detail": "solve a Banker's algorithm safe-sequence question; explain four deadlock conditions.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U4"
+          ]
+        },
+        {
+          "id": "2026-11-28-2",
+          "title": "DCN U4",
+          "detail": "solve 3 IPv4 subnetting problems (network, broadcast, host range).",
+          "category": "study",
+          "subject": "DCN",
+          "units": [
+            "U4"
+          ]
+        },
+        {
+          "id": "2026-11-28-3",
+          "title": "DAA U2",
+          "detail": "trace binary search and merge sort; state time recurrences.",
+          "category": "study",
+          "subject": "DAA",
+          "units": [
+            "U2"
+          ]
+        },
+        {
+          "id": "2026-11-28-4",
+          "title": "Projects",
+          "detail": "obtain DCN/OS/ML briefs, build a 5-line task breakdown for each.",
+          "category": "project",
+          "subject": null,
+          "units": []
+        }
+      ]
+    },
+    "2026-11-29": {
+      "date": "2026-11-29",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-11-29-1",
+          "title": "OS U5",
+          "detail": "practice First/Best/Worst Fit and 2 page-replacement traces (FIFO/LRU).",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U5"
+          ]
+        },
+        {
+          "id": "2026-11-29-2",
+          "title": "DCN U2-4",
+          "detail": "timed past-paper section; mark and log errors.",
+          "category": "study",
+          "subject": "DCN",
+          "units": [
+            "U2",
+            "U4"
+          ]
+        },
+        {
+          "id": "2026-11-29-3",
+          "title": "COA U1-2",
+          "detail": "solve number representation, complements and instruction-format questions.",
+          "category": "study",
+          "subject": "COA",
+          "units": [
+            "U1",
+            "U2"
+          ]
+        },
+        {
+          "id": "2026-11-29-4",
+          "title": "Projects",
+          "detail": "first 30-45 min on whichever has the earliest confirmed deadline.",
+          "category": "project",
+          "subject": null,
+          "units": []
+        }
+      ]
+    },
+    "2026-11-30": {
+      "date": "2026-11-30",
+      "classes": [
+        {
+          "id": "2026-11-30-c0",
+          "start": "10:00",
+          "end": "10:55",
+          "title": "Applied ML",
+          "place": "10201",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-30-c1",
+          "start": "11:00",
+          "end": "11:55",
+          "title": "DCN",
+          "place": "11115",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-30-c2",
+          "start": "12:00",
+          "end": "12:55",
+          "title": "OS",
+          "place": "9206",
+          "kind": "class"
+        },
+        {
+          "id": "2026-11-30-c3",
+          "start": "13:00",
+          "end": "13:55",
+          "title": "Economics",
+          "place": "MS Teams",
+          "kind": "online"
+        },
+        {
+          "id": "2026-11-30-c4",
+          "start": "16:00",
+          "end": "16:55",
+          "title": "COA",
+          "place": "11115",
+          "kind": "class"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-11-30-1",
+          "title": "OS U6",
+          "detail": "sketch indexed/linked/contiguous file allocation; solve one disk-scheduling numerical.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U6"
+          ]
+        },
+        {
+          "id": "2026-11-30-2",
+          "title": "DCN U5",
+          "detail": "explain TCP 3-way handshake, sliding window and congestion control from memory.",
+          "category": "study",
+          "subject": "DCN",
+          "units": [
+            "U5"
+          ]
+        }
+      ]
+    },
+    "2026-12-01": {
+      "date": "2026-12-01",
+      "classes": [
+        {
+          "id": "2026-12-01-c0",
+          "start": "10:00",
+          "end": "10:55",
+          "title": "OS",
+          "place": "10104",
+          "kind": "class"
+        },
+        {
+          "id": "2026-12-01-c1",
+          "start": "11:00",
+          "end": "11:55",
+          "title": "DAA",
+          "place": "11012",
+          "kind": "class"
+        },
+        {
+          "id": "2026-12-01-c2",
+          "start": "13:00",
+          "end": "13:55",
+          "title": "Economics",
+          "place": "MS Teams",
+          "kind": "online"
+        },
+        {
+          "id": "2026-12-01-c3",
+          "start": "14:00",
+          "end": "15:55",
+          "title": "Applied ML Lab",
+          "place": "AB-11 L-004",
+          "kind": "class"
+        },
+        {
+          "id": "2026-12-01-c4",
+          "start": "16:00",
+          "end": "16:55",
+          "title": "DCN",
+          "place": "10106",
+          "kind": "class"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-12-01-1",
+          "title": "OS U1-3",
+          "detail": "timed mixed set (scheduling, threads, semaphores), then correct.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U1",
+            "U3"
+          ]
+        },
+        {
+          "id": "2026-12-01-2",
+          "title": "DAA U3",
+          "detail": "solve activity selection and Huffman construction problems.",
+          "category": "study",
+          "subject": "DAA",
+          "units": [
+            "U3"
+          ]
+        }
+      ]
+    },
+    "2026-12-02": {
+      "date": "2026-12-02",
+      "classes": [
+        {
+          "id": "2026-12-02-c0",
+          "start": "09:00",
+          "end": "09:55",
+          "title": "OS",
+          "place": "10102",
+          "kind": "class"
+        },
+        {
+          "id": "2026-12-02-c1",
+          "start": "10:00",
+          "end": "10:55",
+          "title": "DCN",
+          "place": "10102",
+          "kind": "class"
+        },
+        {
+          "id": "2026-12-02-c2",
+          "start": "11:00",
+          "end": "11:55",
+          "title": "DAA",
+          "place": "11013",
+          "kind": "class"
+        },
+        {
+          "id": "2026-12-02-c3",
+          "start": "13:00",
+          "end": "13:55",
+          "title": "Economics",
+          "place": "MS Teams",
+          "kind": "online"
+        },
+        {
+          "id": "2026-12-02-c4",
+          "start": "14:00",
+          "end": "14:55",
+          "title": "DCN Lab",
+          "place": "10002",
+          "kind": "class"
+        },
+        {
+          "id": "2026-12-02-c5",
+          "start": "15:00",
+          "end": "15:55",
+          "title": "DCN Lab",
+          "place": "10001",
+          "kind": "class"
+        },
+        {
+          "id": "2026-12-02-c6",
+          "start": "16:00",
+          "end": "16:55",
+          "title": "Applied ML",
+          "place": "10201",
+          "kind": "class"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-12-02-1",
+          "title": "DCN U3-4",
+          "detail": "CSMA variants + IPv4 subnetting/route selection practice.",
+          "category": "study",
+          "subject": "DCN",
+          "units": [
+            "U3",
+            "U4"
+          ]
+        },
+        {
+          "id": "2026-12-02-2",
+          "title": "OS U4-5",
+          "detail": "Banker's algorithm plus 1 paging numerical.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U4",
+            "U5"
+          ]
+        }
+      ]
+    },
+    "2026-12-03": {
+      "date": "2026-12-03",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-03-1",
+          "title": "OS U1-6",
+          "detail": "attempt half a past paper under timed conditions; categorize misses by unit.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U1",
+            "U6"
+          ]
+        },
+        {
+          "id": "2026-12-03-2",
+          "title": "DCN U1-3",
+          "detail": "answer 10 short questions closed-book + 2 CRC/ARQ numericals.",
+          "category": "study",
+          "subject": "DCN",
+          "units": [
+            "U1",
+            "U3"
+          ]
+        },
+        {
+          "id": "2026-12-03-3",
+          "title": "DAA U4",
+          "detail": "0/1 knapsack DP and matrix-chain table by hand.",
+          "category": "study",
+          "subject": "DAA",
+          "units": [
+            "U4"
+          ]
+        },
+        {
+          "id": "2026-12-03-4",
+          "title": "Projects",
+          "detail": "30-45 min urgent deliverable or submission check.",
+          "category": "project",
+          "subject": null,
+          "units": []
+        }
+      ]
+    },
+    "2026-12-04": {
+      "date": "2026-12-04",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-04-1",
+          "title": "OS U2-5",
+          "detail": "redo worst 4 past-paper questions without solution.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U2",
+            "U5"
+          ]
+        },
+        {
+          "id": "2026-12-04-2",
+          "title": "DCN U4-5",
+          "detail": "subnetting + TCP/UDP distinctions and routing algorithms.",
+          "category": "study",
+          "subject": "DCN",
+          "units": [
+            "U4",
+            "U5"
+          ]
+        },
+        {
+          "id": "2026-12-04-3",
+          "title": "COA U3",
+          "detail": "draw hardwired vs microprogrammed control; compare RISC/CISC.",
+          "category": "study",
+          "subject": "COA",
+          "units": [
+            "U3"
+          ]
+        }
+      ]
+    },
+    "2026-12-05": {
+      "date": "2026-12-05",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-05-1",
+          "title": "OS",
+          "detail": "full timed past paper or longest available section; grade using marking scheme.",
+          "category": "study",
+          "subject": "OS",
+          "units": []
+        },
+        {
+          "id": "2026-12-05-2",
+          "title": "DCN",
+          "detail": "full timed past paper or longest available section; grade and log errors.",
+          "category": "study",
+          "subject": "DCN",
+          "units": []
+        },
+        {
+          "id": "2026-12-05-3",
+          "title": "DAA U5",
+          "detail": "trace N-Queens/backtracking and branch-and-bound example.",
+          "category": "study",
+          "subject": "DAA",
+          "units": [
+            "U5"
+          ]
+        },
+        {
+          "id": "2026-12-05-4",
+          "title": "Projects",
+          "detail": "submission work, only after deadlines verified.",
+          "category": "project",
+          "subject": null,
+          "units": []
+        }
+      ]
+    },
+    "2026-12-06": {
+      "date": "2026-12-06",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-06-1",
+          "title": "OS U5-6",
+          "detail": "target missed paging/file/disk-scheduling questions; retry.",
+          "category": "study",
+          "subject": "OS",
+          "units": [
+            "U5",
+            "U6"
+          ]
+        },
+        {
+          "id": "2026-12-06-2",
+          "title": "DCN U4",
+          "detail": "4 subnetting/routing calculations; verify each answer.",
+          "category": "study",
+          "subject": "DCN",
+          "units": [
+            "U4"
+          ]
+        },
+        {
+          "id": "2026-12-06-3",
+          "title": "Applied ML U1-3",
+          "detail": "recall learning types, losses, SGD vs Adam; complete 3 worked examples.",
+          "category": "study",
+          "subject": "Applied ML",
+          "units": [
+            "U1",
+            "U3"
+          ]
+        }
+      ]
+    },
+    "2026-12-07": {
+      "date": "2026-12-07",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-07-1",
+          "title": "OS",
+          "detail": "timed past-paper section focused on lowest-scoring units + error notebook.",
+          "category": "study",
+          "subject": "OS",
+          "units": []
+        },
+        {
+          "id": "2026-12-07-2",
+          "title": "DCN",
+          "detail": "timed set (CRC, ARQ, subnetting, TCP), check each.",
+          "category": "study",
+          "subject": "DCN",
+          "units": []
+        },
+        {
+          "id": "2026-12-07-3",
+          "title": "COA U4",
+          "detail": "2 cache mapping and hit/miss exercises.",
+          "category": "study",
+          "subject": "COA",
+          "units": [
+            "U4"
+          ]
+        }
+      ]
+    },
+    "2026-12-08": {
+      "date": "2026-12-08",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-08-1",
+          "title": "OS",
+          "detail": "full/half mock; correct only errors and make one-page formula/process sheet.",
+          "category": "study",
+          "subject": "OS",
+          "units": []
+        },
+        {
+          "id": "2026-12-08-2",
+          "title": "DCN",
+          "detail": "30-min retrieval of U1-5 weak spots.",
+          "category": "study",
+          "subject": "DCN",
+          "units": []
+        },
+        {
+          "id": "2026-12-08-3",
+          "title": "DAA U6",
+          "detail": "compare naive/Rabin-Karp/KMP and P/NP terminology in short-answer form.",
+          "category": "study",
+          "subject": "DAA",
+          "units": [
+            "U6"
+          ]
+        }
+      ]
+    },
+    "2026-12-09": {
+      "date": "2026-12-09",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-09-1",
+          "title": "OS",
+          "detail": "final closed-book error redo (scheduling, Banker, paging, disk); stop heavy learning early.",
+          "category": "study",
+          "subject": "OS",
+          "units": []
+        },
+        {
+          "id": "2026-12-09-2",
+          "title": "DCN",
+          "detail": "20-min subnetting/ARQ/TCP refresh; pack exam kit.",
+          "category": "study",
+          "subject": "DCN",
+          "units": []
+        }
+      ]
+    },
+    "2026-12-10": {
+      "date": "2026-12-10",
+      "classes": [
+        {
+          "id": "2026-12-10-exam",
+          "start": "10:00",
+          "end": "13:00",
+          "title": "OS EXAM",
+          "place": "Exam venue: confirm",
+          "kind": "exam"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-12-10-1",
+          "title": "After food/rest",
+          "detail": "DCN full priority set—subnetting, CRC, ARQ, routing, TCP; redo errors.",
+          "category": "study",
+          "subject": null,
+          "units": []
+        },
+        {
+          "id": "2026-12-10-2",
+          "title": "Light DAA recall only if energy remains.",
+          "detail": "Light DAA recall only if energy remains.",
+          "category": "study",
+          "subject": null,
+          "units": []
+        }
+      ]
+    },
+    "2026-12-11": {
+      "date": "2026-12-11",
+      "classes": [
+        {
+          "id": "2026-12-11-exam",
+          "start": "10:00",
+          "end": "13:00",
+          "title": "DCN EXAM",
+          "place": "Exam venue: confirm",
+          "kind": "exam"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-12-11-1",
+          "title": "After recovery",
+          "detail": "DAA U1-3—recurrence, divide/conquer, greedy past-paper questions.",
+          "category": "study",
+          "subject": null,
+          "units": []
+        },
+        {
+          "id": "2026-12-11-2",
+          "title": "COA U1-2",
+          "detail": "2 numericals if time allows.",
+          "category": "study",
+          "subject": "COA",
+          "units": [
+            "U1",
+            "U2"
+          ]
+        }
+      ]
+    },
+    "2026-12-12": {
+      "date": "2026-12-12",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-12-1",
+          "title": "DAA U4-5",
+          "detail": "0/1 knapsack, matrix-chain, LCS, N-Queens on paper.",
+          "category": "study",
+          "subject": "DAA",
+          "units": [
+            "U4",
+            "U5"
+          ]
+        },
+        {
+          "id": "2026-12-12-2",
+          "title": "DAA U6",
+          "detail": "KMP/Rabin-Karp and P/NP short answers.",
+          "category": "study",
+          "subject": "DAA",
+          "units": [
+            "U6"
+          ]
+        },
+        {
+          "id": "2026-12-12-3",
+          "title": "COA U3-4",
+          "detail": "control unit/cache mapping numericals.",
+          "category": "study",
+          "subject": "COA",
+          "units": [
+            "U3",
+            "U4"
+          ]
+        }
+      ]
+    },
+    "2026-12-13": {
+      "date": "2026-12-13",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-13-1",
+          "title": "DAA",
+          "detail": "timed mock or multiple past-paper sections; correct weak units.",
+          "category": "study",
+          "subject": "DAA",
+          "units": []
+        },
+        {
+          "id": "2026-12-13-2",
+          "title": "COA U1-6",
+          "detail": "list high-yield numericals and solve 3 (Booth, cache, pipeline).",
+          "category": "study",
+          "subject": "COA",
+          "units": [
+            "U1",
+            "U6"
+          ]
+        },
+        {
+          "id": "2026-12-13-3",
+          "title": "Applied ML U4-5",
+          "detail": "preprocessing and regression recall.",
+          "category": "study",
+          "subject": "Applied ML",
+          "units": [
+            "U4",
+            "U5"
+          ]
+        }
+      ]
+    },
+    "2026-12-14": {
+      "date": "2026-12-14",
+      "classes": [
+        {
+          "id": "2026-12-14-exam",
+          "start": "10:00",
+          "end": "13:00",
+          "title": "DAA EXAM",
+          "place": "Exam venue: confirm",
+          "kind": "exam"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-12-14-1",
+          "title": "After recovery",
+          "detail": "COA U1-6 final timed practice (number representation, control, cache, pipeline).",
+          "category": "study",
+          "subject": null,
+          "units": []
+        }
+      ]
+    },
+    "2026-12-15": {
+      "date": "2026-12-15",
+      "classes": [
+        {
+          "id": "2026-12-15-exam",
+          "start": "10:00",
+          "end": "13:00",
+          "title": "COA EXAM",
+          "place": "Exam venue: confirm",
+          "kind": "exam"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-12-15-1",
+          "title": "After recovery",
+          "detail": "Applied ML U1-4 recall and worked loss/optimizer questions.",
+          "category": "study",
+          "subject": null,
+          "units": []
+        }
+      ]
+    },
+    "2026-12-16": {
+      "date": "2026-12-16",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-16-1",
+          "title": "Applied ML U5-7",
+          "detail": "regression, classifiers, clustering (K-means/DBSCAN); compare methods and metrics.",
+          "category": "study",
+          "subject": "Applied ML",
+          "units": [
+            "U5",
+            "U7"
+          ]
+        },
+        {
+          "id": "2026-12-16-2",
+          "title": "Applied ML",
+          "detail": "timed past-paper section and corrections.",
+          "category": "study",
+          "subject": "Applied ML",
+          "units": []
+        },
+        {
+          "id": "2026-12-16-3",
+          "title": "Neuroscience",
+          "detail": "15-min retrieval from actual class notes; syllabus still missing.",
+          "category": "study",
+          "subject": "Neuroscience",
+          "units": []
+        }
+      ]
+    },
+    "2026-12-17": {
+      "date": "2026-12-17",
+      "classes": [
+        {
+          "id": "2026-12-17-exam",
+          "start": "10:00",
+          "end": "13:00",
+          "title": "Applied ML EXAM",
+          "place": "Exam venue: confirm",
+          "kind": "exam"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-12-17-1",
+          "title": "After recovery",
+          "detail": "Neuroscience class notes—identify exam topics, create 10 recall questions.",
+          "category": "study",
+          "subject": null,
+          "units": []
+        },
+        {
+          "id": "2026-12-17-2",
+          "title": "Economics U1-2",
+          "detail": "redraw PPF and demand-supply equilibrium.",
+          "category": "study",
+          "subject": "Economics",
+          "units": [
+            "U1",
+            "U2"
+          ]
+        }
+      ]
+    },
+    "2026-12-18": {
+      "date": "2026-12-18",
+      "classes": [],
+      "tasks": [
+        {
+          "id": "2026-12-18-1",
+          "title": "Neuroscience",
+          "detail": "2 timed practice sets from available notes/paper; label diagrams and correct errors.",
+          "category": "study",
+          "subject": "Neuroscience",
+          "units": []
+        },
+        {
+          "id": "2026-12-18-2",
+          "title": "Economics U2-4",
+          "detail": "elasticity, tax incidence, utility, cost-curve numericals/graphs.",
+          "category": "study",
+          "subject": "Economics",
+          "units": [
+            "U2",
+            "U4"
+          ]
+        }
+      ]
+    },
+    "2026-12-19": {
+      "date": "2026-12-19",
+      "classes": [
+        {
+          "id": "2026-12-19-exam",
+          "start": "14:00",
+          "end": "17:00",
+          "title": "Neuroscience EXAM",
+          "place": "Exam venue: confirm",
+          "kind": "exam"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-12-19-1",
+          "title": "Before exam",
+          "detail": "light active recall, no exhausting new material.",
+          "category": "study",
+          "subject": null,
+          "units": []
+        },
+        {
+          "id": "2026-12-19-2",
+          "title": "After recovery",
+          "detail": "Economics U1-5; redraw key graphs and list formulas.",
+          "category": "study",
+          "subject": null,
+          "units": []
+        }
+      ]
+    },
+    "2026-12-20": {
+      "date": "2026-12-20",
+      "classes": [
+        {
+          "id": "2026-12-20-exam",
+          "start": "10:00",
+          "end": "13:00",
+          "title": "Economics EXAM",
+          "place": "Exam venue: confirm",
+          "kind": "exam"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "2026-12-20-1",
+          "title": "Economics EXAM 10",
+          "detail": "00-13:00.",
+          "category": "study",
+          "subject": "Economics",
+          "units": []
+        },
+        {
+          "id": "2026-12-20-2",
+          "title": "Recover; do not schedule catch-up studying after t",
+          "detail": "Recover; do not schedule catch-up studying after the final exam.",
+          "category": "study",
+          "subject": null,
+          "units": []
+        }
+      ]
+    }
+  },
+  "syllabus": [
+    {
+      "id": "OS",
+      "exam": "2026-12-10",
+      "units": [
+        {
+          "id": "U1",
+          "name": "OS fundamentals, services, system calls"
+        },
+        {
+          "id": "U2",
+          "name": "Processes, CPU scheduling and threads"
+        },
+        {
+          "id": "U3",
+          "name": "IPC, synchronization, semaphores and monitors"
+        },
+        {
+          "id": "U4",
+          "name": "Deadlocks and Banker’s algorithm"
+        },
+        {
+          "id": "U5",
+          "name": "Memory, paging, replacement and segmentation"
+        },
+        {
+          "id": "U6",
+          "name": "File systems and disk scheduling"
+        }
+      ]
+    },
+    {
+      "id": "DCN",
+      "exam": "2026-12-11",
+      "units": [
+        {
+          "id": "U1",
+          "name": "Networks, topologies and OSI/TCP-IP"
+        },
+        {
+          "id": "U2",
+          "name": "Error control, CRC, Hamming and ARQ"
+        },
+        {
+          "id": "U3",
+          "name": "MAC: CSMA, Ethernet and wireless"
+        },
+        {
+          "id": "U4",
+          "name": "IPv4/IPv6, subnetting and routing"
+        },
+        {
+          "id": "U5",
+          "name": "TCP, UDP and transport performance"
+        }
+      ]
+    },
+    {
+      "id": "DAA",
+      "exam": "2026-12-14",
+      "units": [
+        {
+          "id": "U1",
+          "name": "Asymptotics, recurrences and Master theorem"
+        },
+        {
+          "id": "U2",
+          "name": "Divide and conquer, sorting and Strassen"
+        },
+        {
+          "id": "U3",
+          "name": "Greedy, Huffman, Dijkstra and MST"
+        },
+        {
+          "id": "U4",
+          "name": "Dynamic programming, knapsack, LCS and MCM"
+        },
+        {
+          "id": "U5",
+          "name": "Backtracking and branch & bound"
+        },
+        {
+          "id": "U6",
+          "name": "Flow, string matching and P/NP"
+        }
+      ]
+    },
+    {
+      "id": "COA",
+      "exam": "2026-12-15",
+      "units": [
+        {
+          "id": "U1",
+          "name": "Computer organization, arithmetic and RTL"
+        },
+        {
+          "id": "U2",
+          "name": "Instructions, addressing and cycles"
+        },
+        {
+          "id": "U3",
+          "name": "Hardwired/microprogrammed control and RISC/CISC"
+        },
+        {
+          "id": "U4",
+          "name": "Memory hierarchy and cache"
+        },
+        {
+          "id": "U5",
+          "name": "I/O, interrupts and DMA"
+        },
+        {
+          "id": "U6",
+          "name": "Parallel processing and pipelining"
+        }
+      ]
+    },
+    {
+      "id": "Applied ML",
+      "exam": "2026-12-17",
+      "units": [
+        {
+          "id": "U1",
+          "name": "ML fundamentals, types and Python tools"
+        },
+        {
+          "id": "U2",
+          "name": "Loss functions"
+        },
+        {
+          "id": "U3",
+          "name": "Optimizers and gradient descent"
+        },
+        {
+          "id": "U4",
+          "name": "Preprocessing, validation and imbalance"
+        },
+        {
+          "id": "U5",
+          "name": "Regression and regularization"
+        },
+        {
+          "id": "U6",
+          "name": "Classification, ensembles, neural networks and metrics"
+        },
+        {
+          "id": "U7",
+          "name": "Clustering: hierarchical, k-means and DBSCAN"
+        }
+      ]
+    },
+    {
+      "id": "Economics",
+      "exam": "2026-12-20",
+      "units": [
+        {
+          "id": "U1",
+          "name": "Fundamentals, PPF and opportunity cost"
+        },
+        {
+          "id": "U2",
+          "name": "Supply, demand, elasticity and taxation"
+        },
+        {
+          "id": "U3",
+          "name": "Consumer choice and utility"
+        },
+        {
+          "id": "U4",
+          "name": "Production and costs"
+        },
+        {
+          "id": "U5",
+          "name": "Macroeconomic indicators and growth"
+        }
+      ]
+    },
+    {
+      "id": "Neuroscience",
+      "exam": "2026-12-19",
+      "units": [],
+      "note": "No course syllabus supplied. Add topics from lecture notes; do not treat assumed topics as official."
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "title": "OS project",
+      "deadline": "",
+      "next": "Get brief, rubric and deadline",
+      "done": false
+    },
+    {
+      "id": "p2",
+      "title": "DCN project",
+      "deadline": "",
+      "next": "Get brief, rubric and deadline",
+      "done": false
+    },
+    {
+      "id": "p3",
+      "title": "Applied ML project",
+      "deadline": "",
+      "next": "Get brief, rubric and deadline",
+      "done": false
+    },
+    {
+      "id": "p4",
+      "title": "Applied ML assignment",
+      "deadline": "",
+      "next": "Get questions and deadline",
+      "done": false
+    }
+  ]
+}
